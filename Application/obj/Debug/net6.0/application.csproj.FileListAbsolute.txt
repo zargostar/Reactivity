@@ -1,0 +1,17 @@
+D:\react\udmy2\ReactActivity\Application\bin\Debug\net6.0\application.deps.json
+D:\react\udmy2\ReactActivity\Application\bin\Debug\net6.0\application.dll
+D:\react\udmy2\ReactActivity\Application\bin\Debug\net6.0\application.pdb
+D:\react\udmy2\ReactActivity\Application\bin\Debug\net6.0\Domain.dll
+D:\react\udmy2\ReactActivity\Application\bin\Debug\net6.0\Persistence.dll
+D:\react\udmy2\ReactActivity\Application\bin\Debug\net6.0\Domain.pdb
+D:\react\udmy2\ReactActivity\Application\bin\Debug\net6.0\Persistence.pdb
+D:\react\udmy2\ReactActivity\Application\obj\Debug\net6.0\application.csproj.AssemblyReference.cache
+D:\react\udmy2\ReactActivity\Application\obj\Debug\net6.0\application.GeneratedMSBuildEditorConfig.editorconfig
+D:\react\udmy2\ReactActivity\Application\obj\Debug\net6.0\application.AssemblyInfoInputs.cache
+D:\react\udmy2\ReactActivity\Application\obj\Debug\net6.0\application.AssemblyInfo.cs
+D:\react\udmy2\ReactActivity\Application\obj\Debug\net6.0\application.csproj.CoreCompileInputs.cache
+D:\react\udmy2\ReactActivity\Application\obj\Debug\net6.0\application.csproj.CopyComplete
+D:\react\udmy2\ReactActivity\Application\obj\Debug\net6.0\application.dll
+D:\react\udmy2\ReactActivity\Application\obj\Debug\net6.0\refint\application.dll
+D:\react\udmy2\ReactActivity\Application\obj\Debug\net6.0\application.pdb
+D:\react\udmy2\ReactActivity\Application\obj\Debug\net6.0\ref\application.dll
